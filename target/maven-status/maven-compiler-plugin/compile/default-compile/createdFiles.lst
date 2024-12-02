@@ -1,0 +1,11 @@
+com\mycompany\agendapro\servlets\CargarTareaServlet.class
+com\mycompany\agendapro\servlets\CompletarTareaServlet.class
+com\mycompany\agendapro\servlets\EventosServlet.class
+com\mycompany\agendapro\servlets\AgregarEventosServlet.class
+com\mycompany\agendapro\servlets\DatabaseConnection.class
+com\mycompany\agendapro\servlets\contactoServlet.class
+com\mycompany\agendapro\servlets\LoginServlet.class
+com\mycompany\agendapro\servlets\TareaServlet.class
+com\mycompany\agendapro\servlets\EliminarTareaServlet.class
+com\mycompany\agendapro\servlets\ModificarTareaServlet.class
+com\mycompany\agendapro\servlets\Registerservlet.class
